@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KhoslaLabsAssignment</string>
+    <string name="no_data_to_show">No Data To Show</string>
+    <string name="try_again">Try Again</string>
+</resources>
